@@ -1,4 +1,4 @@
-# Tutorials for the MESS 2019
+# Tutorials for Skience 2019
 
 ## Installation
 
